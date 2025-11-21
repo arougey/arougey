@@ -1,3 +1,3 @@
 Hi there 👋
 
-Hi, I am Alex Rougebec. I am now a Computer Science and Math dual major . I am interested in the Information System, ML-System and also hope to contribute more to the Open Source Community.
+Hi, I am Alex Rougebec. I am pursuing a Computer Science major and a Math and Finance minor. I am interested in App development, Machine Learning, Website Development and Financial Analytics.
